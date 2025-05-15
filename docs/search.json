@@ -2,15 +2,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, my name is Jay and I am currently a year one student studying in SIT. I am passionate about Artificial Intelligence hence the reason why I applied to AAI.\nBelow is my favorite animal which I find it very cute."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "FYP Project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "FYP Project\nThis is my final project, I am an art student and this is my showcase."
+  },
+  {
+    "objectID": "movie.html",
+    "href": "movie.html",
+    "title": "My favorite Movie",
+    "section": "",
+    "text": "This is my favorite movie of all time. Below is the movie poster :D"
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I have used chatgpt. I chose chatgpt is because is user friendly and I prefer using chatgpt over other tools as it provide the most accurate details."
+  },
+  {
+    "objectID": "Reflection.html#what-is-the-genai-tool-you-have-used-why-did-you-choose-it",
+    "href": "Reflection.html#what-is-the-genai-tool-you-have-used-why-did-you-choose-it",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I have used chatgpt. I chose chatgpt is because is user friendly and I prefer using chatgpt over other tools as it provide the most accurate details."
+  },
+  {
+    "objectID": "Reflection.html#how-did-the-genai-tool-help-you-in-completting-the-assessment",
+    "href": "Reflection.html#how-did-the-genai-tool-help-you-in-completting-the-assessment",
+    "title": "Reflection on the use of GenAI",
+    "section": "How did the GenAI tool help you in completting the assessment?",
+    "text": "How did the GenAI tool help you in completting the assessment?\nit provide neccessary information/explanation for the code suggestions, which also help me to learn at the same time. for example, css-styling which I do not know what are the properties are but it explained me in detail."
+  },
+  {
+    "objectID": "Reflection.html#what-do-you-think-are-beneficial-about-the-tool",
+    "href": "Reflection.html#what-do-you-think-are-beneficial-about-the-tool",
+    "title": "Reflection on the use of GenAI",
+    "section": "What do you think are beneficial about the tool?",
+    "text": "What do you think are beneficial about the tool?\nI think it allowed me to save a lot of time finding solution online. Because I can get a direct answer from chatgpt."
+  },
+  {
+    "objectID": "Reflection.html#what-do-you-think-are-challenging-about-the-tool",
+    "href": "Reflection.html#what-do-you-think-are-challenging-about-the-tool",
+    "title": "Reflection on the use of GenAI",
+    "section": "What do you think are challenging about the tool?",
+    "text": "What do you think are challenging about the tool?\nThey explained what are the codes do, but some of the codes I wasn’t sure how to apply it."
+  },
+  {
+    "objectID": "Reflection.html#how-do-you-think-will-genai-tools-assist-you-for-your-future-study-or-work",
+    "href": "Reflection.html#how-do-you-think-will-genai-tools-assist-you-for-your-future-study-or-work",
+    "title": "Reflection on the use of GenAI",
+    "section": "How do you think will GenAI tools assist you for your future study or work?",
+    "text": "How do you think will GenAI tools assist you for your future study or work?\nSince, GenAI tools provide a detailed explanation. It definetely helped me to learn fast."
+  },
+  {
+    "objectID": "Reflection.html#any-other-thoughts-you-would-like-to-share.",
+    "href": "Reflection.html#any-other-thoughts-you-would-like-to-share.",
+    "title": "Reflection on the use of GenAI",
+    "section": "Any other thoughts you would like to share.",
+    "text": "Any other thoughts you would like to share.\nI’ve nothing to share."
   }
 ]

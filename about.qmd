@@ -1,9 +1,8 @@
 ---
-title: "About"
+title: "FYP Project "
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+This is my final project, I am an art student and this is my showcase. 
+
+<img src = art.jpg>

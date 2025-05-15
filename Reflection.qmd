@@ -1,0 +1,32 @@
+---
+title: "Reflection on the use of GenAI "
+---
+
+
+## What is the GenAI tool you have used? Why did you choose it?
+
+I have used chatgpt. I chose chatgpt is because is user friendly and I prefer using chatgpt over other tools as it provide the most accurate details.
+
+## How did the GenAI tool help you in completting the assessment?
+
+it provide neccessary information/explanation for the code suggestions, which also help me to learn at the same time. for example, css-styling which I do not know what are the properties are but it explained me in detail.
+
+## What do you think are beneficial about the tool?
+
+I think it allowed me to save a lot of time finding solution online. Because I can get a direct answer from chatgpt. 
+
+## What do you think are challenging about the tool?
+
+They explained what are the codes do, but some of the codes I wasn't sure how to apply it.
+
+## How do you think will GenAI tools assist you for your future study or work?
+
+Since, GenAI tools provide a detailed explanation. It definetely helped me to learn fast.
+
+## Any other thoughts you would like to share.
+
+I've nothing to share. 
+
+
+
+<img src = movie.jpg>

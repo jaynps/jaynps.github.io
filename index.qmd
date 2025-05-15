@@ -1,11 +1,10 @@
 ---
-title: "temp_website"
+title: "Home"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, my name is Jay and I am currently a year one student studying in SIT. I am passionate about Artificial Intelligence hence the reason why I applied to AAI.
 
-```{r}
-1 + 1
-```
+Below is my favorite animal which I find it very cute.\
+
+<img src = penguin.png>

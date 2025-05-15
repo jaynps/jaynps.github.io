@@ -1,0 +1,9 @@
+---
+title: "My Favorite Movie "
+---
+
+
+This is my favorite movie of all time. Below is the movie poster :D \
+
+
+<img src = movie.jpg>
