@@ -28,5 +28,3 @@ Since, GenAI tools provide a detailed explanation. It definetely helped me to le
 I've nothing to share. 
 
 
-
-<img src = movie.jpg>

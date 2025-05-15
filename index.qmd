@@ -2,9 +2,10 @@
 title: "Home"
 ---
 
+# Welcome to my Website
 
 Hi, my name is Jay and I am currently a year one student studying in SIT. I am passionate about Artificial Intelligence hence the reason why I applied to AAI.
 
-Below is my favorite animal which I find it very cute.\
+**_Below is my favorite animal which I find it very cute._**
 
 <img src = penguin.png>

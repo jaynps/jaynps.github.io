@@ -2,8 +2,16 @@
 title: "My Favorite Movie "
 ---
 
+**Below are my top three movies of all time.**
 
-This is my favorite movie of all time. Below is the movie poster :D \
+| Movie Title        | Genre          | Year |
+|--------------------|----------------|------|
+| Amazing Spider-Man | Action         | 2012 |
+| The Dark Knight    | Action         | 2008 |
+| Interstellar       | Sci-Fi         | 2014 |
+
+
+**Below is the movie poster**
 
 
 <img src = movie.jpg>

@@ -3,24 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Personal Website"
   favicon: favicon.png
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
-      - about.qmd
-      - movie.qmd
-      - Reflection.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: movie.qmd
+        text: Movies
+      - href: Reflection.qmd
+        text: Reflections
 
 format:
   html:
-    theme:
-      - darkly
+    theme: cosmo
     css: styles.css
     toc: true
     toc-depth: 3
     toc-location: left
-
-
-
