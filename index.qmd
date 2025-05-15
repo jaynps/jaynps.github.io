@@ -6,6 +6,10 @@ title: "Home"
 
 Hi, my name is Jay and I am currently a year one student studying in SIT. I am passionate about Artificial Intelligence hence the reason why I applied to AAI.
 
+Below is my github link for this project.
+
+<https://github.com/jaynps/jaynps.github.io>
+
 **_Below is my favorite animal which I find it very cute._**
 
 <img src = penguin.png>
